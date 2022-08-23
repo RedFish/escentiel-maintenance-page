@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/escentiel-maintenance-page/static/css/main.e6c13ad2.css",
+    "main.js": "/escentiel-maintenance-page/static/js/main.579a7a5a.js",
+    "index.html": "/escentiel-maintenance-page/index.html",
+    "main.e6c13ad2.css.map": "/escentiel-maintenance-page/static/css/main.e6c13ad2.css.map",
+    "main.579a7a5a.js.map": "/escentiel-maintenance-page/static/js/main.579a7a5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.579a7a5a.js"
+  ]
+}
